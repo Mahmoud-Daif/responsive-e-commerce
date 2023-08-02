@@ -1,0 +1,114 @@
+{
+    "section1": [
+      {
+        "name": "Samsung Galaxy A14",
+        "image": "./photos/phone1.jpg",
+        "price": 4000
+      },
+      {
+        "name": "Huawei Nova Y70",
+        "image": "./photos/phone2.jpg",
+        "price": 5000
+      },
+      {
+        "name": "XIAOMI Redmi A1 Plus",
+        "image": "./photos/phone3.jpg",
+        "price": 3800
+      },
+      {
+        "name": "Mtouch M1 MAX",
+        "image": "./photos/phone4.jpg",
+        "price": 100
+      }
+    ],
+    "section2": [
+      {
+        "name": "F&D A140X 2.1",
+        "image": "./photos/elec1.jpg",
+        "price": 2199
+      },
+      {
+        "name": "Skyline 32-22A",
+        "image": "./photos/elec2.jpg",
+        "price": 3399
+      },
+      {
+        "name": "Skyline HD-222",
+        "image": "./photos/elec3.jpg",
+        "price": 325
+      },
+      {
+        "name": "PULUZ Soft Silicone",
+        "image": "./photos/elec4.jpg",
+        "price": 589
+      }
+    ],
+    "section3": [
+        {
+          "name": "Resistance Hand Grips",
+          "image": "./photos/sp1.jpg",
+          "price": 70
+        },
+        {
+          "name": "Motivate Water Bottle",
+          "image": "./photos/sp2.jpg",
+          "price": 188
+        },
+        {
+          "name": "ADIDAS Al Rihla Pro",
+          "image": "./photos/sp3.jpg",
+          "price": 2300
+        },
+        {
+          "name": "Adult Roller Skates",
+          "image": "./photos/sp4.jpg",
+          "price": 128
+        }
+      ],
+      "section4": [
+        {
+          "name": "Multifunctional  Stand",
+          "image": "./photos/g1.jpg",
+          "price": 1150
+        },
+        {
+          "name": "PS5 Controller",
+          "image": "./photos/g2.jpg",
+          "price": 3250
+        },
+        {
+          "name": "Bethesda DEATHLOOP",
+          "image": "./photos/g3.jpg",
+          "price": 960
+        },
+        {
+          "name": "Flight Stick",
+          "image": "./photos/g4.jpg",
+          "price": 999
+        }
+      ],
+      "section5": [
+        {
+          "name": "Metal Hanger Set"
+          ,
+          "image": "./photos/home1.jpg",
+          "price": 49
+        },
+        {
+          "name": "Snack Tray",
+          "image": "./photos/home2.jpg",
+          "price": 19
+        },
+        {
+          "name": "Round Wooden Serving ",
+          "image": "./photos/home3.jpg",
+          "price": 19
+        },
+        {
+          "name": "Water Bottle Pump",
+          "image": "./photos/home4.jpg",
+          "price": 19
+        }
+      ]
+  }
+  

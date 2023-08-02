@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/checkot.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />  
+    <link href='https://fonts.googleapis.com/css?family=Cairo' rel='stylesheet'>
+
+    <title>Document</title>
+</head>
+<body>
+     <!-- start nav bar -->
+  <nav class="navbar">
+    <ul class="nav-list">
+      <li>
+        <img src="./photos/logo2.png" alt="">
+      </li>
+      
+
+      
+
+      
+    </ul>
+  </nav>
+
+  <div class="content">
+  <!-- end nav bar -->
+  <div class="ch">
+    <h2>Yur Order Has been <span>Recived</span> </h2>
+    <img src="./photos/checked.png" alt=""> 
+    <h3>Thank You For Purchase <span>!!</span></h3>
+    <h4></h4>
+    <a href="home.html"><button>Return To Shop</button></a>
+    <script>
+        let x =document.querySelector("h4");
+        let url =new URLSearchParams(window.location.search);
+        x.innerHTML +=  url.get("fullname") + "&#128522 " ;
+        
+    </script>
+  </div>
+
+
+
+
+
+
+
+
+
+  <!-- Start footer -->
+<footer>
+    <div class="content">
+        <div class="bottom">
+            <p>Copyright © 2023 <span>Team6</span> All rights reserved</p>
+     
+    </div>
+   
+  </footer>
+</body>
+</html>
